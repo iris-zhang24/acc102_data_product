@@ -64,14 +64,14 @@ pip install -r requirements.txt
 # Run locally
 streamlit run app.py
 
-6. Product Link / Demo
+## 6. Product Link / Demo
 
 • Live Tool: [Streamlit Community Cloud URL]
 
 • Demo Video: [1-3 minute screen recording showing full analysis workflow]
 
 • GitHub Repository: [Repository URL]
-7. Limitations & next steps
+## 7. Limitations & next steps
 
 Data & Sampling Limitations
 
