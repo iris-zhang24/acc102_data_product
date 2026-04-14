@@ -69,7 +69,7 @@ streamlit run app.py
 
 ## 6. Product Link / Demo
 
-- **Live Tool**: [Streamlit Community Cloud URL]
+- **Live Tool**: (https://acc102dataappuct-upwxyky4ni7hklvbaerz2r.streamlit.app)
 - **Demo Video**: [1-3 minute screen recording showing full analysis workflow]
 
 ---
