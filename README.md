@@ -69,8 +69,8 @@ streamlit run app.py
 
 ## 6. Product Link / Demo
 
-- **Live Tool**: (https://acc102dataappuct-upwxyky4ni7hklvbaerz2r.streamlit.app/#arizona-restaurant-analysis-system)
 - **Demo Video**:(https://www.capcut.cn/share/7629597725381678361?t=1
+- **Product link**: (https://acc102dataappuct-upwxyky4ni7hklvbaerz2r.streamlit.app/#arizona-restaurant-analysis-system)
 
 ---
 
